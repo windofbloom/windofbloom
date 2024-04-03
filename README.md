@@ -1,7 +1,7 @@
 
- > # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXN5YW5vMGNtZ3dwdmJ6OTlsZmsxOHIyYXRxOWd6dWtkbm5ybHRwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j0HjChGV0J44KrrlGv/giphy.gif" width="150"/> Hi there, Bloom here✨
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXN5YW5vMGNtZ3dwdmJ6OTlsZmsxOHIyYXRxOWd6dWtkbm5ybHRwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j0HjChGV0J44KrrlGv/giphy.gif" width="150"/> Hi there, Bloom here✨
 
-***
+
 
 ### I'm a Front-End Jr and UX/UI Designer who do art sometimes.
 
