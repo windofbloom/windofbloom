@@ -4,6 +4,7 @@
 
 
 ### I like to code. I'm also good at UX/UI.
+But I'm not the best at JS.
 
 
 <div id="badges">
