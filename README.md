@@ -3,7 +3,7 @@
 
 
 
-### I like to code. I¿m also good at UX/UI.
+### I like to code. I'm also good at UX/UI.
 
 
 <div id="badges">
