@@ -24,7 +24,9 @@
 
 - 👨‍💻 All of my projects are available at [soon~](soon~)
 
-- 📝 I regularly write articles on [soon~](soon~)
+- 📝 I regularly write on [soon~](soon~)
+
+- ✨ I published my drawings on [https://bsky.app/profile/windofbloom.bsky.social](bsky) and [https://www.instagram.com/windofbloom/](instagram)
 
 - ⚡ Fun fact **I started coding because I liked written Role Play**
 
