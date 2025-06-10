@@ -3,7 +3,7 @@
 
 
 
-### I'm a Front-End Jr and UX/UI Designer based in Colombia.
+### I like to code. I¿m also good at UX/UI.
 
 
 <div id="badges">
