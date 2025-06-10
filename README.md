@@ -26,7 +26,7 @@
 
 - 📝 I regularly write on [soon~](soon~)
 
-- ✨ I published my drawings on [https://bsky.app/profile/windofbloom.bsky.social](bsky) and [https://www.instagram.com/windofbloom/](instagram)
+- ✨ I published my drawings on [bsky](https://bsky.app/profile/windofbloom.bsky.social) and [https://www.instagram.com/windofbloom/](instagram)
 
 - ⚡ Fun fact **I started coding because I liked written Role Play**
 
