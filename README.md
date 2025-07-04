@@ -24,7 +24,7 @@
 
 - 👨‍💻 All of my projects are available at [soon~](soon~)
 
-- 📝 I regularly write on [soon~](soon~)
+- 📝 I regularly write on [my blog/site](https://windofbloom.pages.dev/)
 
 - ✨ I published my drawings on [bsky](https://bsky.app/profile/windofbloom.bsky.social) and [Instagram](https://www.instagram.com/windofbloom/)
 
