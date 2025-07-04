@@ -18,7 +18,7 @@
 </div>
 
 
-- 🔭 I’m currently working on **my website with a gothic style**
+- 🔭 I’m currently working on **personal projects**
 
 - 🌱 I’m currently learning **Astro.js**
 
